@@ -1,0 +1,3 @@
+Criando o Projeto
+  npx create-next-app --typescript 
+  npm run dev
