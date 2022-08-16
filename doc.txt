@@ -1,3 +1,11 @@
 Criando o Projeto
   npx create-next-app --typescript 
   npm run dev
+
+Instalando o Projeto
+  npm install
+
+Navegando entre páginas no NextJS
+  acessar a pasta pages
+  criar pasta com o nome da rota
+  dentro da pasta criar um index.tsx
